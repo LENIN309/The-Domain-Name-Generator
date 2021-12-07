@@ -19,4 +19,3 @@ var domainGenerator = (pronoun, adj, noun) => {
   }
 };
 domainGenerator(pronoun, adj, noun);
-document.getElementById("excuse").innerHTML = domainGenerator();
